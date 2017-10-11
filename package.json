@@ -1,0 +1,15 @@
+{
+  "name": "deezer-search-quiz-4ahif-alexleo2000-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cors-proxy.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cors-anywhere": "^0.4.0",
+    "tsc": "^1.5.3"
+  }
+}
